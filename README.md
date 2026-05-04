@@ -1,1 +1,3 @@
 # Reddit-complaint-monitor
+
+The app is a read-only monitoring tool for small business owners and entrepreneurs who want to track discussions about design and branding challenges on Reddit. It surfaces relevant posts from subreddits like r/smallbusiness, r/Entrepreneur, and r/startups so that business owners can find peer advice, and so that branding consultants can identify people who need help and respond with useful guidance. It adds value to Redditors by connecting people who have branding problems with professionals who can genuinely help them — entirely through organic, non-automated engagement.
